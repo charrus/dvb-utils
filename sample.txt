@@ -1,0 +1,197 @@
+Jul 25 00:01:00 vdr tvheadend[1296]: subscription: 0141: "epggrab" subscribing to mux "11567.5V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 00:17:50 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11567.5V in DVB-S Network
+Jul 25 00:17:50 vdr tvheadend[1296]: subscription: 0141: "epggrab" unsubscribing
+Jul 25 00:17:51 vdr tvheadend[1296]: mpegts: 11538V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 00:17:51 vdr tvheadend[1296]: subscription: 0143: "epggrab" subscribing to mux "11538V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 00:34:41 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11538V in DVB-S Network
+Jul 25 00:34:41 vdr tvheadend[1296]: subscription: 0143: "epggrab" unsubscribing
+Jul 25 00:34:42 vdr tvheadend[1296]: mpegts: 11508.5V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 00:34:42 vdr tvheadend[1296]: subscription: 0145: "epggrab" subscribing to mux "11508.5V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 00:51:32 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11508.5V in DVB-S Network
+Jul 25 00:51:32 vdr tvheadend[1296]: subscription: 0145: "epggrab" unsubscribing
+Jul 25 00:51:33 vdr tvheadend[1296]: mpegts: 11479V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 00:51:33 vdr tvheadend[1296]: subscription: 0147: "epggrab" subscribing to mux "11479V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 01:08:23 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11479V in DVB-S Network
+Jul 25 01:08:23 vdr tvheadend[1296]: subscription: 0147: "epggrab" unsubscribing
+Jul 25 01:08:24 vdr tvheadend[1296]: mpegts: 11343V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 01:08:24 vdr tvheadend[1296]: subscription: 0149: "epggrab" subscribing to mux "11343V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 01:25:14 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11343V in DVB-S Network
+Jul 25 01:25:14 vdr tvheadend[1296]: subscription: 0149: "epggrab" unsubscribing
+Jul 25 01:25:15 vdr tvheadend[1296]: mpegts: 11307V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 01:25:15 vdr tvheadend[1296]: subscription: 014B: "epggrab" subscribing to mux "11307V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 01:42:05 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11307V in DVB-S Network
+Jul 25 01:42:05 vdr tvheadend[1296]: subscription: 014B: "epggrab" unsubscribing
+Jul 25 01:42:06 vdr tvheadend[1296]: mpegts: 11265V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 01:42:06 vdr tvheadend[1296]: subscription: 014D: "epggrab" subscribing to mux "11265V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 01:58:56 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11265V in DVB-S Network
+Jul 25 01:58:56 vdr tvheadend[1296]: subscription: 014D: "epggrab" unsubscribing
+Jul 25 01:58:57 vdr tvheadend[1296]: mpegts: 11225V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 01:58:57 vdr tvheadend[1296]: subscription: 014F: "epggrab" subscribing to mux "11225V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 02:15:47 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11225V in DVB-S Network
+Jul 25 02:15:47 vdr tvheadend[1296]: subscription: 014F: "epggrab" unsubscribing
+Jul 25 02:15:48 vdr tvheadend[1296]: mpegts: 11425H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 02:15:48 vdr tvheadend[1296]: subscription: 015D: "epggrab" subscribing to mux "11425H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 02:16:02 vdr tvheadend[1296]: dvr: entry c4b545714ecc5376ffc5961d5e27d39d "The Rise of the Murdoch Dynasty" on "BBC Two HD" starting at 2020-08-01 02:39:30, with broadcast id "crid://fp.bbc.co.uk/1m/BG6N", scheduled for recording by "charlie"
+Jul 25 02:32:38 vdr tvheadend[1296]: epggrab: UK: Freesat - data completion timeout for 11425H in DVB-S Network
+Jul 25 02:32:38 vdr tvheadend[1296]: subscription: 015D: "epggrab" unsubscribing
+Jul 25 02:32:39 vdr tvheadend[1296]: mpegts: 10906V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 02:32:39 vdr tvheadend[1296]: subscription: 015F: "epggrab" subscribing to mux "10906V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 02:49:29 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10906V in DVB-S Network
+Jul 25 02:49:29 vdr tvheadend[1296]: subscription: 015F: "epggrab" unsubscribing
+Jul 25 02:49:30 vdr tvheadend[1296]: mpegts: 11097V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 02:49:30 vdr tvheadend[1296]: subscription: 0161: "epggrab" subscribing to mux "11097V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 03:02:30 vdr tvheadend[1296]: dvr: Prefetching artwork for c4b545714ecc5376ffc5961d5e27d39d "The Rise of the Murdoch Dynasty"
+Jul 25 03:02:30 vdr tvheadend[1296]: spawn: Executing "/usr/bin/tvhmeta"
+Jul 25 03:02:31 vdr tvheadend[1296]: spawn: 2020-07-25 03:02:31,009:INFO:tvhmeta:452:Got movie modules: [tv_meta_tmdb] tv modules [tv_meta_tmdb,tv_meta_tvdb]
+Jul 25 03:02:31 vdr tvheadend[1296]: spawn: 2020-07-25 03:02:31,009:INFO:tvhmeta:149:Sending grid=1&list=uuid%2Cimage%2Cfanart_image%2Ctitle%2Ccopyright_year%2Cepisode_disp%2Curi&uuid=c4b545714ecc5376ffc5961d5e27d39d to http://localhost:9981/api/idnode/load
+Jul 25 03:02:31 vdr tvheadend[1296]: spawn: 2020-07-25 03:02:31,010:INFO:tvhmeta:237:We have both image and fanart_image already for c4b545714ecc5376ffc5961d5e27d39d so nothing to do ({"entries":[{"uuid":"c4b545714ecc5376ffc5961d5e27d39d","image":"","fanart_image":"","title":{"eng":"The Rise of the Murdoch Dynasty"},"copyright_year":0,"episode_disp":"Episode 1","uri":"crid://fp.bbc.co.uk/1m/BG6N"}]})
+Jul 25 03:06:20 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11097V in DVB-S Network
+Jul 25 03:06:20 vdr tvheadend[1296]: subscription: 0161: "epggrab" unsubscribing
+Jul 25 03:06:21 vdr tvheadend[1296]: mpegts: 11126.5V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 03:06:21 vdr tvheadend[1296]: subscription: 0163: "epggrab" subscribing to mux "11126.5V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 03:23:11 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11126.5V in DVB-S Network
+Jul 25 03:23:11 vdr tvheadend[1296]: subscription: 0163: "epggrab" unsubscribing
+Jul 25 03:23:12 vdr tvheadend[1296]: mpegts: 10936V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 03:23:12 vdr tvheadend[1296]: subscription: 0165: "epggrab" subscribing to mux "10936V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 03:40:02 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10936V in DVB-S Network
+Jul 25 03:40:02 vdr tvheadend[1296]: subscription: 0165: "epggrab" unsubscribing
+Jul 25 03:40:03 vdr tvheadend[1296]: mpegts: 10847V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 03:40:03 vdr tvheadend[1296]: subscription: 0167: "epggrab" subscribing to mux "10847V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 03:56:53 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10847V in DVB-S Network
+Jul 25 03:56:53 vdr tvheadend[1296]: subscription: 0167: "epggrab" unsubscribing
+Jul 25 03:56:54 vdr tvheadend[1296]: mpegts: 10818V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 03:56:54 vdr tvheadend[1296]: subscription: 0169: "epggrab" subscribing to mux "10818V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 04:13:44 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10818V in DVB-S Network
+Jul 25 04:13:44 vdr tvheadend[1296]: subscription: 0169: "epggrab" unsubscribing
+Jul 25 04:13:45 vdr tvheadend[1296]: mpegts: 10788V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 04:13:45 vdr tvheadend[1296]: subscription: 016B: "epggrab" subscribing to mux "10788V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 04:30:35 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10788V in DVB-S Network
+Jul 25 04:30:35 vdr tvheadend[1296]: subscription: 016B: "epggrab" unsubscribing
+Jul 25 04:30:36 vdr tvheadend[1296]: mpegts: 10758.5V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 04:30:36 vdr tvheadend[1296]: subscription: 016D: "epggrab" subscribing to mux "10758.5V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 04:47:26 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10758.5V in DVB-S Network
+Jul 25 04:47:26 vdr tvheadend[1296]: subscription: 016D: "epggrab" unsubscribing
+Jul 25 04:47:27 vdr tvheadend[1296]: mpegts: 12382.5H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 04:47:27 vdr tvheadend[1296]: subscription: 016F: "epggrab" subscribing to mux "12382.5H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 05:04:17 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 12382.5H in DVB-S Network
+Jul 25 05:04:17 vdr tvheadend[1296]: subscription: 016F: "epggrab" unsubscribing
+Jul 25 05:04:18 vdr tvheadend[1296]: mpegts: 12070.5H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 05:04:18 vdr tvheadend[1296]: subscription: 0171: "epggrab" subscribing to mux "12070.5H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 05:21:08 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 12070.5H in DVB-S Network
+Jul 25 05:21:08 vdr tvheadend[1296]: subscription: 0171: "epggrab" unsubscribing
+Jul 25 05:21:09 vdr tvheadend[1296]: mpegts: 11914.5H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 05:21:09 vdr tvheadend[1296]: subscription: 0173: "epggrab" subscribing to mux "11914.5H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 05:37:59 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11914.5H in DVB-S Network
+Jul 25 05:37:59 vdr tvheadend[1296]: subscription: 0173: "epggrab" unsubscribing
+Jul 25 05:38:00 vdr tvheadend[1296]: mpegts: 11836.5H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 05:38:00 vdr tvheadend[1296]: subscription: 0175: "epggrab" subscribing to mux "11836.5H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 05:54:50 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11836.5H in DVB-S Network
+Jul 25 05:54:50 vdr tvheadend[1296]: subscription: 0175: "epggrab" unsubscribing
+Jul 25 05:54:51 vdr tvheadend[1296]: mpegts: 11670.75H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 05:54:51 vdr tvheadend[1296]: subscription: 0177: "epggrab" subscribing to mux "11670.75H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 06:11:41 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11670.75H in DVB-S Network
+Jul 25 06:11:41 vdr tvheadend[1296]: subscription: 0177: "epggrab" unsubscribing
+Jul 25 06:11:42 vdr tvheadend[1296]: mpegts: 11582.25H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 06:11:42 vdr tvheadend[1296]: subscription: 0179: "epggrab" subscribing to mux "11582.25H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 06:28:32 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11582.25H in DVB-S Network
+Jul 25 06:28:32 vdr tvheadend[1296]: subscription: 0179: "epggrab" unsubscribing
+Jul 25 06:28:33 vdr tvheadend[1296]: mpegts: 11552.75H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 06:28:33 vdr tvheadend[1296]: subscription: 017B: "epggrab" subscribing to mux "11552.75H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 06:45:23 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11552.75H in DVB-S Network
+Jul 25 06:45:23 vdr tvheadend[1296]: subscription: 017B: "epggrab" unsubscribing
+Jul 25 06:45:24 vdr tvheadend[1296]: mpegts: 11493.75H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 06:45:24 vdr tvheadend[1296]: subscription: 017D: "epggrab" subscribing to mux "11493.75H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 07:02:14 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11493.75H in DVB-S Network
+Jul 25 07:02:14 vdr tvheadend[1296]: subscription: 017D: "epggrab" unsubscribing
+Jul 25 07:02:15 vdr tvheadend[1296]: mpegts: 11344.5H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 07:02:15 vdr tvheadend[1296]: subscription: 017F: "epggrab" subscribing to mux "11344.5H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 07:19:05 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11344.5H in DVB-S Network
+Jul 25 07:19:05 vdr tvheadend[1296]: subscription: 017F: "epggrab" unsubscribing
+Jul 25 07:19:06 vdr tvheadend[1296]: mpegts: 11112H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 07:19:06 vdr tvheadend[1296]: subscription: 0181: "epggrab" subscribing to mux "11112H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 07:35:56 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11112H in DVB-S Network
+Jul 25 07:35:56 vdr tvheadend[1296]: subscription: 0181: "epggrab" unsubscribing
+Jul 25 07:35:57 vdr tvheadend[1296]: mpegts: 11082.25H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 07:35:57 vdr tvheadend[1296]: subscription: 0183: "epggrab" subscribing to mux "11082.25H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 07:52:47 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11082.25H in DVB-S Network
+Jul 25 07:52:47 vdr tvheadend[1296]: subscription: 0183: "epggrab" unsubscribing
+Jul 25 07:52:48 vdr tvheadend[1296]: mpegts: 11023.25H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 07:52:48 vdr tvheadend[1296]: subscription: 0185: "epggrab" subscribing to mux "11023.25H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 08:09:38 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11023.25H in DVB-S Network
+Jul 25 08:09:38 vdr tvheadend[1296]: subscription: 0185: "epggrab" unsubscribing
+Jul 25 08:09:39 vdr tvheadend[1296]: mpegts: 10964H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 08:09:39 vdr tvheadend[1296]: subscription: 0187: "epggrab" subscribing to mux "10964H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 08:26:29 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10964H in DVB-S Network
+Jul 25 08:26:29 vdr tvheadend[1296]: subscription: 0187: "epggrab" unsubscribing
+Jul 25 08:26:30 vdr tvheadend[1296]: mpegts: 10891H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 08:26:30 vdr tvheadend[1296]: subscription: 0189: "epggrab" subscribing to mux "10891H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 08:43:20 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10891H in DVB-S Network
+Jul 25 08:43:20 vdr tvheadend[1296]: subscription: 0189: "epggrab" unsubscribing
+Jul 25 08:43:21 vdr tvheadend[1296]: mpegts: 10803H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 08:43:21 vdr tvheadend[1296]: subscription: 018B: "epggrab" subscribing to mux "10803H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 09:00:11 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10803H in DVB-S Network
+Jul 25 09:00:11 vdr tvheadend[1296]: subscription: 018B: "epggrab" unsubscribing
+Jul 25 09:00:12 vdr tvheadend[1296]: mpegts: 10714.25H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 09:00:12 vdr tvheadend[1296]: subscription: 018D: "epggrab" subscribing to mux "10714.25H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 09:17:02 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10714.25H in DVB-S Network
+Jul 25 09:17:02 vdr tvheadend[1296]: subscription: 018D: "epggrab" unsubscribing
+Jul 25 09:17:03 vdr tvheadend[1296]: mpegts: 10773H in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 09:17:03 vdr tvheadend[1296]: subscription: 018F: "epggrab" subscribing to mux "10773H", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 09:33:53 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 10773H in DVB-S Network
+Jul 25 09:33:53 vdr tvheadend[1296]: subscription: 018F: "epggrab" unsubscribing
+Jul 25 09:33:54 vdr tvheadend[1296]: mpegts: 11265V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 09:33:54 vdr tvheadend[1296]: subscription: 0191: "epggrab" subscribing to mux "11265V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 09:50:44 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11265V in DVB-S Network
+Jul 25 09:50:44 vdr tvheadend[1296]: subscription: 0191: "epggrab" unsubscribing
+Jul 25 09:50:45 vdr tvheadend[1296]: mpegts: 11307V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 09:50:45 vdr tvheadend[1296]: subscription: 0193: "epggrab" subscribing to mux "11307V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 10:07:35 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11307V in DVB-S Network
+Jul 25 10:07:35 vdr tvheadend[1296]: subscription: 0193: "epggrab" unsubscribing
+Jul 25 10:07:36 vdr tvheadend[1296]: mpegts: 11343V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 10:07:36 vdr tvheadend[1296]: subscription: 0195: "epggrab" subscribing to mux "11343V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 10:24:26 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11343V in DVB-S Network
+Jul 25 10:24:26 vdr tvheadend[1296]: subscription: 0195: "epggrab" unsubscribing
+Jul 25 10:24:27 vdr tvheadend[1296]: mpegts: 11426.5V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 10:24:27 vdr tvheadend[1296]: subscription: 0197: "epggrab" subscribing to mux "11426.5V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 10:41:17 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11426.5V in DVB-S Network
+Jul 25 10:41:17 vdr tvheadend[1296]: subscription: 0197: "epggrab" unsubscribing
+Jul 25 10:41:18 vdr tvheadend[1296]: mpegts: 11479V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 10:41:18 vdr tvheadend[1296]: subscription: 0199: "epggrab" subscribing to mux "11479V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 10:58:08 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11479V in DVB-S Network
+Jul 25 10:58:08 vdr tvheadend[1296]: subscription: 0199: "epggrab" unsubscribing
+Jul 25 10:58:09 vdr tvheadend[1296]: mpegts: 11508.5V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 10:58:09 vdr tvheadend[1296]: subscription: 019B: "epggrab" subscribing to mux "11508.5V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 11:14:59 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11508.5V in DVB-S Network
+Jul 25 11:14:59 vdr tvheadend[1296]: subscription: 019B: "epggrab" unsubscribing
+Jul 25 11:15:00 vdr tvheadend[1296]: mpegts: 11538V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 11:15:00 vdr tvheadend[1296]: subscription: 019D: "epggrab" subscribing to mux "11538V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 11:31:50 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11538V in DVB-S Network
+Jul 25 11:31:50 vdr tvheadend[1296]: subscription: 019D: "epggrab" unsubscribing
+Jul 25 11:31:51 vdr tvheadend[1296]: mpegts: 11567.5V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 11:31:51 vdr tvheadend[1296]: subscription: 019F: "epggrab" subscribing to mux "11567.5V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 11:48:41 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11567.5V in DVB-S Network
+Jul 25 11:48:41 vdr tvheadend[1296]: subscription: 019F: "epggrab" unsubscribing
+Jul 25 11:48:42 vdr tvheadend[1296]: mpegts: 11597V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 11:48:42 vdr tvheadend[1296]: subscription: 01A1: "epggrab" subscribing to mux "11597V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 12:05:32 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11597V in DVB-S Network
+Jul 25 12:05:32 vdr tvheadend[1296]: subscription: 01A1: "epggrab" unsubscribing
+Jul 25 12:05:33 vdr tvheadend[1296]: mpegts: 11685.5V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 12:05:33 vdr tvheadend[1296]: subscription: 01A3: "epggrab" subscribing to mux "11685.5V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 12:22:23 vdr tvheadend[1296]: epggrab: UK: Freesat (EIT) - data completion timeout for 11685.5V in DVB-S Network
+Jul 25 12:22:23 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11685.5V in DVB-S Network
+Jul 25 12:22:23 vdr tvheadend[1296]: subscription: 01A3: "epggrab" unsubscribing
+Jul 25 12:22:24 vdr tvheadend[1296]: mpegts: 11973V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 12:22:24 vdr tvheadend[1296]: subscription: 01A5: "epggrab" subscribing to mux "11973V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 12:39:14 vdr tvheadend[1296]: epggrab: UK: Freesat (EIT) - data completion timeout for 11973V in DVB-S Network
+Jul 25 12:39:14 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 11973V in DVB-S Network
+Jul 25 12:39:14 vdr tvheadend[1296]: subscription: 01A5: "epggrab" unsubscribing
+Jul 25 12:39:15 vdr tvheadend[1296]: mpegts: 12129V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 12:39:15 vdr tvheadend[1296]: subscription: 01A7: "epggrab" subscribing to mux "12129V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 12:56:05 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 12129V in DVB-S Network
+Jul 25 12:56:05 vdr tvheadend[1296]: epggrab: UK: Freesat (EIT) - data completion timeout for 12129V in DVB-S Network
+Jul 25 12:56:05 vdr tvheadend[1296]: subscription: 01A7: "epggrab" unsubscribing
+Jul 25 12:56:06 vdr tvheadend[1296]: mpegts: 12363V in DVB-S Network - tuning on Montage Technology M88DS3103 #5 : DVB-S #0
+Jul 25 12:56:06 vdr tvheadend[1296]: subscription: 01A9: "epggrab" subscribing to mux "12363V", weight: 4, adapter: "Montage Technology M88DS3103 #5 : DVB-S #0", network: "DVB-S Network", service: "Raw PID Subscription"
+Jul 25 13:12:56 vdr tvheadend[1296]: epggrab: EIT: DVB Grabber - data completion timeout for 12363V in DVB-S Network
+Jul 25 13:12:56 vdr tvheadend[1296]: epggrab: UK: Freesat (EIT) - data completion timeout for 12363V in DVB-S Network
+Jul 25 13:12:56 vdr tvheadend[1296]: subscription: 01A9: "epggrab" unsubscribing
