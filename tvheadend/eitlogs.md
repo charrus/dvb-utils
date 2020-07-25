@@ -17,7 +17,7 @@ No subscription found for 11973V in DVB-S Network: Jul 24 21:45:52 vdr tvheadend
 g mux for OTA EPG                                                 
 
 
-```json
+```python
 {'10714.25H': {'EIT: DVB Grabber': 'data completion timeout for 10714.25H in DVB-S Network',
                'UK: Freesat (EIT)': 'data completion timeout for 10714.25H in DVB-S Network'},
  '10758.5V': {'EIT: DVB Grabber': 'data completion timeout for 10758.5V in DVB-S Network'},
@@ -71,5 +71,4 @@ g mux for OTA EPG
  '12363V': {'EIT: DVB Grabber': 'data completion timeout for 12363V in DVB-S Network',
             'UK: Freesat (EIT)': 'data completion timeout for 12363V in DVB-S Network'},
  '12382.5H': {'EIT: DVB Grabber': 'data completion timeout for 12382.5H in DVB-S Network'}}
-```
 
