@@ -4,6 +4,8 @@ This parses tvheadend log files to summarize the results of EIT grabbers by mux
 
 Typical usage is:
 
+```
+$ cat /var/log/syslog.1 /var/log/syslog | ./eitlogs.py
 No subscription found for 11758H in DVB-S Network: Jul 24 21:24:58 vdr tvheadend[1296]: epggrab: 11758H in DVB-S Network - registerin
 g mux for OTA EPG                                                                                                                    
                                                                                                                                      
@@ -16,8 +18,6 @@ ering mux for OTA EPG
 No subscription found for 11973V in DVB-S Network: Jul 24 21:45:52 vdr tvheadend[1296]: epggrab: 11973V in DVB-S Network - registerin
 g mux for OTA EPG                                                 
 
-
-```python
 {'10714.25H': {'EIT: DVB Grabber': 'data completion timeout for 10714.25H in DVB-S Network',
                'UK: Freesat (EIT)': 'data completion timeout for 10714.25H in DVB-S Network'},
  '10758.5V': {'EIT: DVB Grabber': 'data completion timeout for 10758.5V in DVB-S Network'},
