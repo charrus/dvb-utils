@@ -1,4 +1,6 @@
-# eitlogs.py
+# dvb-utils
+
+## eitlogs.py
 
 This parses tvheadend log files to summarize the results of EIT grabbers by mux
 
