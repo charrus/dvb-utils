@@ -4,19 +4,22 @@ import re
 
 class EITParser:
 
-    re_sub = re.compile(r'.*"epggrab" subscribing to mux \"([^"]+)"')
-    re_epggrab = re.compile(r'.*epggrab: (.+) - (.*)$')
-    re_unsub = re.compile(r'.*subscription: [0-9a-fA-F]{4}: "epggrab" unsubscribing')
 
     def __init__(self):
         self.muxes = {}
         self.eits = {}
     
     def parse(self, file):
+        re_sub = re.compile(r'.*"epggrab" subscribing to mux \"([^"]+)"')
+        re_epggrab = re.compile(r'.*epggrab: (.+) - (.*)$')
+        re_unsub = re.compile(r'.*subscription: [0-9a-fA-F]{4}: "epggrab" unsubscribing')
         current_mux = None
 
-        with f as open(file, 'rt'):
-            for line in f.readline():
+        with open(file, 'rt') as f:
+            for line in f.readlines():
+                if not 'tvheadend' in line:
+                    continue
+
                 m_re_sub = re_sub.match(line)
                 m_re_epggrab = re_epggrab.match(line)
                 m_re_unsub = re_unsub.match(line)
@@ -33,15 +36,15 @@ class EITParser:
                         grabber = EITGrabber(eit_name, eit_result)
                         current_mux.add_grabber(grabber)
                 elif m_re_unsub:
-                    current_mux = None
+                    self.muxes[current_mux.name] = current_mux
                 else:
-                    next
+                    continue
     
 class EITGrabber:
 
     def __init__(self, name, description):
         self.name = name
-        self.description: description
+        self.description = description
 
 class EITMux:
 
@@ -58,7 +61,7 @@ def main():
     import pprint
 
     muxes = EITParser()
-    muxes.parse('/var/log/syslog')
+    muxes.parse('/var/log/syslog.1')
     pprint.pprint(muxes.muxes)
 
 if __name__ == '__main__':
